@@ -2,13 +2,13 @@
 E-mail: d.v.valko@gmail.com &emsp;Links:  [GoogleScholar](https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru)  ·  [ResearchGate](https://www.researchgate.net/profile/Danila-Valko)  ·  [LinkedIn](http://www.linkedin.com/in/ellariel)  ·  [GitHub](https://github.com/ellariel)
 
 ### Academic interests and expertise	
-###
+#
 - Data Science for Sustainability
 - Green computing and Green AI
 - Reinforcement Learning
 
 ### Education
-###
+#
 #### 2018 &emsp;MSc in Computer Science (*cum laude*)
 - [South Ural State University (National Research University)](https://www.susu.ru/en), Russia
 - Supervisor: [Mikhail Zymbler](https://www.researchgate.net/profile/Mikhail-Zymbler-2)
@@ -18,7 +18,7 @@ E-mail: d.v.valko@gmail.com &emsp;Links:  [GoogleScholar](https://scholar.google
 - Supervisor: Irina Sergeicheva
 
 ### Professional experience
-___
+#
 #### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
 - ***Visiting Researcher***
 - Machine Learning, Reinforcement Learning, Green Computing
@@ -38,7 +38,7 @@ ___
 - IT infrastructure maintenance
 
 ### Courses (*taken recently*)
-___
+#
 - 2022 &emsp;Data Science Summer School / [Hertie School](https://www.hertie-school.org/en/) ([proof](https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg))
 - 2021 &emsp;Quantitative Methods / [University of Amsterdam at Coursera](https://www.coursera.org/learn/quantitative-methods) ([proof](https://www.coursera.org/verify/96SKPB7CEG3B))
 - 2021 &emsp;Machine Learning and Computer Vision / [IT Korpus](https://korpus.io/about/) ([proof]())
@@ -50,20 +50,20 @@ ___
 - 2020 &emsp;Artificial Intelligence, Big Data and Machine Learning / [Tomsk State University](https://en.tsu.ru/) ([proof](https://sun9-64.userapi.com/RN4JmbxK7ydbEPg4EDBhK-8JzbLmSLSI5U6Ikw/qUWJyNr3DfU.jpg))
 
 ### Publications (*selected*)
-___
+#
 - *Valko, D. & Kudenko, D.* (2023). Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network. *In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023*, London, UK, [https://alaworkshop2023.github.io](https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf)
 - *Valko, D.* (2018). A recommendation system based on data mining of a scientometric research profile. *Software & Systems*, [http://doi.org/10.15827/0236-235X.122.275-283](http://doi.org/10.15827/0236-235X.122.275-283)
 - *Valko, D.* (2016). Training software to perform technological calculations. *Software & Systems*, [http://doi.org/10.15827/0236-235X.114.179-184](http://doi.org/10.15827/0236-235X.114.179-184)
 
 ### Patents
-___
+#
 - *Valko, D., Muhina, Yu.* (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. [RU2020616358](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html), 16-06-2020. 
 - *Valko, D., Zymbler, M.* (2018). Decision support system in the field of scientific research management based on intellectual analysis of scientometric data / Reg. No. [RU2018613068](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html), 02-03-2018.
 - *Valko, D., Koltashov, A.* (2016). Module for data mining and aggregating of scientometric data from open services on the Internet / Reg. No. [RU2016619028](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html), 11-08-2016.
 - *Valko, D., Moskvina, V.* (2015). Calculation program for calibration systems for a rolling mill / Reg. No. [RU2015618937](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html), 20-09-2015.
 
 ### Other professional skills
-___
+#
 - Language Skills: Russian (*native*), English (*advanced proficiency*), German (*limited proficiency*)
 - Data Analysis: Quantitative Methods, Econometrics, Data Mining and Machine Learning
 - Analysis Software: Python, R/R-Studio, SPSS, Stata
