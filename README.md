@@ -58,10 +58,10 @@ ___
 
 ### Patents
 ___
-- *Valko, D., Muhina, Yu.* (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. [RU2020616358](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html), 16-06-2020. 
-- *Valko, D., Zymbler, M.* (2018). Decision support system in the field of scientific research management based on intellectual analysis of scientometric data / Reg. No. [RU2018613068](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html), 02-03-2018.
-- *Valko, D., Koltashov, A.* (2016). Module for data mining and aggregating of scientometric data from open services on the Internet / Reg. No. [RU2016619028](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html), 11-08-2016.
-- *Valko, D., Moskvina, V.* (2015). Calculation program for calibration systems for a rolling mill / Reg. No. [RU2015618937](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html), 20-09-2015.
+- *Valko, D., Muhina, Yu.* (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. [RU2020616358](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html). 
+- *Valko, D., Zymbler, M.* (2018). Decision support system in the field of scientific research management based on intellectual analysis of scientometric data / Reg. No. [RU2018613068](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html).
+- *Valko, D., Koltashov, A.* (2016). Module for data mining and aggregating of scientometric data from open services on the Internet / Reg. No. [RU2016619028](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html).
+- *Valko, D., Moskvina, V.* (2015). Calculation program for calibration systems for a rolling mill / Reg. No. [RU2015618937](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html).
 
 ### Other professional skills
 ___
