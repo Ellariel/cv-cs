@@ -52,7 +52,7 @@ ___
 
 ### Publications (*selected*)
 ___
-- *Valko, D. & Kudenko, D.* (2023). Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network. *In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023*, London, UK, [https://alaworkshop2023.github.io](https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf)
+- *Valko, D. & Kudenko, D.* (2023). Increasing energy efficiency of Bitcoin infrastructure with Reinforcement Learning and one-shot path planning for the Lightning Network. *In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023*, London, UK, [https://alaworkshop2023.github.io](https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf)
 - *Valko, D.* (2018). A recommendation system based on data mining of a scientometric research profile. *Software & Systems*, [http://doi.org/10.15827/0236-235X.122.275-283](http://doi.org/10.15827/0236-235X.122.275-283)
 - *Valko, D.* (2016). Training software to perform technological calculations. *Software & Systems*, [http://doi.org/10.15827/0236-235X.114.179-184](http://doi.org/10.15827/0236-235X.114.179-184)
 
