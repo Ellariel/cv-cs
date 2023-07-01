@@ -1,6 +1,8 @@
 # Danila Valko
 
 ## Education
-2018  South Ural State University (National Research University)
+{:start="2018"}  South Ural State University (National Research University)
+      
       MSc in Computer Science (cum laude)
-	    Supervisor: Mikhail Zymbler
+      
+      Supervisor: Mikhail Zymbler
