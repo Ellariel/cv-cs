@@ -42,3 +42,20 @@ ___
 - 2020 &emsp;Information Infrastructure and Artificial Intelligence / [Tomsk State University](https://en.tsu.ru/) ([proof](https://sun9-60.userapi.com/ahMlryfRQFZzJ66Gz0APS2dk7hpGbkCJdMc7Hw/q2H3xsaiWSE.jpg))
 - 2020 &emsp;Artificial Intelligence, Big Data and Machine Learning / [Tomsk State University](https://en.tsu.ru/) ([proof](https://sun9-64.userapi.com/RN4JmbxK7ydbEPg4EDBhK-8JzbLmSLSI5U6Ikw/qUWJyNr3DfU.jpg))
 
+### Publications (*selected*)
+___
+- Valko, D. & Kudenko, D. (2023). Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network. **In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023**, London, UK, [https://alaworkshop2023.github.io](https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf)
+- Valko, D. (2018). A recommendation system based on data mining of a scientometric research profile. **Software & Systems**, [http://doi.org/10.15827/0236-235X.122.275-283](http://doi.org/10.15827/0236-235X.122.275-283)
+Valko, D. (2016). Training software to perform technological calculations. **Software & Systems**, [http://doi.org/10.15827/0236-235X.114.179-184](http://doi.org/10.15827/0236-235X.114.179-184)
+
+### Patents
+___
+- Valko, D., Muhina, Yu. (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. [RU2020616358](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html), 16-06-2020. 
+- Valko, D., Zymbler, M. (2018). Decision support system in the field of scientific research management based on intellectual analysis of scientometric data / Reg. No. [RU2018613068](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html), 02-03-2018.
+- Valko, D., Koltashov, A. (2016). Module for data mining and aggregating of scientometric data from open services on the Internet / Reg. No. [RU2016619028](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html), 11-08-2016.
+- Valko, D., Moskvina, V. (2015). Calculation program for calibration systems for a rolling mill / Reg. No. [RU2015618937](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html), 20-09-2015.
+
+
+
+
+
