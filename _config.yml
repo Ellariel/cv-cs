@@ -8,4 +8,4 @@ relative_links:
   collections: true
 include:
   - README.md
-remote_theme: tajacks/lightspeed #piazzai/cvless
+remote_theme: piazzai/cvless
