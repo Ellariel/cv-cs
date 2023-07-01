@@ -3,25 +3,25 @@
 ### Education
 ___
 #### 2018 &emsp;MSc in Computer Science (*cum laude*)
-- South Ural State University (National Research University), Russia
-- Supervisor: Mikhail Zymbler
+- [South Ural State University (National Research University)](https://www.susu.ru/en), Russia
+- Supervisor: [Mikhail Zymbler](https://www.researchgate.net/profile/Mikhail-Zymbler-2)
 
 #### 2010 &emsp;MA in Finance and Economics (*cum laude*)
-- South Ural Institute of Management and Economics, Russia
+- [South Ural Institute of Management and Economics](https://www.inueco.ru/), Russia
 - Supervisor: Irina Sergeicheva
 
 ### Professional experience
 ___
-#### 2022 – 2023 &emsp;L3S Research Center, Leibniz University Hannover, Germany
+#### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
 - ***Visiting Researcher***
 - Machine Learning, Reinforcement Learning, Green Computing
 
-#### 2021 – 2022 &emsp;Center for Advanced Governance (CAG), Russia
+#### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
 - ***Data Scientist***, ***Data Engineer***
 - Research and Data Analysis
 - Data Mining and Data Preparation (*Python/PostgreSQL, ETL/ELT, Apache Airflow*)
 
-#### 2014 – 2022 &emsp;The South Ural University of Technology (SUUT), Russia
+#### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - ***Senior Researcher***, ***Associate Professor***
 - Quantitative Analysis, Econometrics (*ANOVA, SEM, ATET, PSM, CS-ADRL*)
 - Teaching IT, BA/MA Supervision
