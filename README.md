@@ -35,7 +35,7 @@ ___
 - Quantitative Analysis, Econometrics (*ANOVA, SEM, ATET, PSM, CS-ADRL*)
 - Teaching IT, BA/MA Supervision
 
-#### 2010 – 2013 &emsp;Mechel-Fund (Non-State Pension Fund)
+#### 2010 – 2013 &emsp;Mechel-Fund (Non-state pension fund)
 - ***Technician***
 - IT infrastructure maintenance
 
