@@ -5,7 +5,7 @@
 ### Academic interests and expertise	
 ___
 - Data Science for Sustainability
-- Green computing and Green AI
+- Green computing & Green AI
 - Reinforcement Learning
 
 ### Education
