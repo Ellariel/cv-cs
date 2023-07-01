@@ -10,16 +10,13 @@ ___
 - Supervisor: Irina Sergeicheva
 ## Professional experience
 ___
+#### 2022 – 2023 &emsp;L3S Research Center, Leibniz University Hannover, Germany
+- Visiting Researcher
+- Machine Learning, Reinforcement Learning, Green Computing
+#### 2021 – 2022 &emsp;Center for Advanced Governance (CAG), Russia
+- Data Scientist, Data Engineer
+- Data Mining and Data Preparation (*Python/PostgreSQL, ETL/ELT, Apache Airflow*)
 
- 
-2022 – p.d.	L3S Research Center, Leibniz Universität Hannover, Hannover, Germany
-		Visiting Researcher
-•	Reinforcement Learning, Green Computing, Machine Learning
-
-2021 – 2022	Center for Advanced Governance (CAG), Moscow, Russia
-		Data Scientist, Data Engineer
-•	Data Mining and Data Preparation (PostgreSQL/Python, ETL/ELT)
-•	Data Analysis, Machine Learning
 
 2014 – 2022	The South Ural University of Technology (SUUT), Chelyabinsk, Russia
    Senior Researcher, Associate Professor
