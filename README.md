@@ -2,13 +2,13 @@
 E-mail: d.v.valko@gmail.com &emsp;Links:  [GoogleScholar](https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru)  ·  [ResearchGate](https://www.researchgate.net/profile/Danila-Valko)  ·  [LinkedIn](http://www.linkedin.com/in/ellariel)  ·  [GitHub](https://github.com/ellariel)
 
 ### Academic interests and expertise	
-#
+###
 - Data Science for Sustainability
 - Green computing and Green AI
 - Reinforcement Learning
 
 ### Education
-___
+###
 #### 2018 &emsp;MSc in Computer Science (*cum laude*)
 - [South Ural State University (National Research University)](https://www.susu.ru/en), Russia
 - Supervisor: [Mikhail Zymbler](https://www.researchgate.net/profile/Mikhail-Zymbler-2)
