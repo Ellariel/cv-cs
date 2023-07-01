@@ -1,6 +1,6 @@
 # Danila Valko
 
-<font size="4">Links:&emsp;[<img src="googlescholar.png" width="24" alt="GoogleScholar">](https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru) [<img src="researchgate.png" width="22" alt="ResearchGate">](https://www.researchgate.net/profile/Danila-Valko) [<img src="linkedin.png" width="22" alt="LinkedIn">](http://www.linkedin.com/in/ellariel) [<img src="github.png" width="24" alt="GitHub">](https://github.com/ellariel)<br>
+<font size="4">Links:&emsp;<a href="https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a> [<img src="researchgate.png" width="22" alt="ResearchGate">](https://www.researchgate.net/profile/Danila-Valko) [<img src="linkedin.png" width="22" alt="LinkedIn">](http://www.linkedin.com/in/ellariel) [<img src="github.png" width="24" alt="GitHub">](https://github.com/ellariel)<br>
 E-mail:&emsp;d.v.valko@gmail.com</font>
 
 ### Academic interests and expertise	
@@ -12,7 +12,7 @@ ___
 ### Education
 ___
 ##### 2018 &emsp;MSc in Computer Science (*cum laude*)
-- <sup>[South Ural State University (National Research University)](https://www.susu.ru/en), Russia</sup>
+- <font size="4">[South Ural State University (National Research University)](https://www.susu.ru/en), Russia</font>
 - Supervisor: [Mikhail Zymbler](https://www.researchgate.net/profile/Mikhail-Zymbler-2)
 
 ##### 2010 &emsp;MA in Finance and Economics (*cum laude*)
