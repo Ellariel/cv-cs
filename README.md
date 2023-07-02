@@ -5,25 +5,25 @@ E-mail:&emsp;d.v.valko@gmail.com</font>
 
 ### Academic interests and expertise	
 ___
-- Data Science for Sustainability
+- <font size="4">Data Science for Sustainability
 - Green computing & Green AI
-- Reinforcement Learning
+- Reinforcement Learning</font>
 
 ### Education
 ___
 ##### 2018 &emsp;MSc in Computer Science (*cum laude*)
-- <font size="4"><a href="https://www.susu.ru/en">South Ural State University (National Research University)</a>, Russia</font>
-- Supervisor: [Mikhail Zymbler](https://www.researchgate.net/profile/Mikhail-Zymbler-2)
+- <font size="4"><a href="https://www.susu.ru/en">South Ural State University (National Research University)</a>, Russia
+- Supervisor: <a href="https://www.researchgate.net/profile/Mikhail-Zymbler-2">Mikhail Zymbler</a></font>
 
 ##### 2010 &emsp;MA in Finance and Economics (*cum laude*)
-- [South Ural Institute of Management and Economics](https://www.inueco.ru/), Russia
-- Supervisor: Irina Sergeicheva
+- <font size="4">[South Ural Institute of Management and Economics](https://www.inueco.ru/), Russia
+- Supervisor: Irina Sergeicheva</font>
 
 ### Professional experience
 ___
 ##### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
-- ***Visiting Researcher***
-- Machine Learning, Reinforcement Learning, Green Computing
+- <font size="4">***Visiting Researcher***
+- Machine Learning, Reinforcement Learning, Green Computing</font>
 
 ##### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
 - ***Data Scientist***, ***Data Engineer***
