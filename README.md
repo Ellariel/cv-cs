@@ -1,7 +1,7 @@
 # Danila Valko
 
-<font size="4">Links:&emsp;<a href="https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a> [<img src="researchgate.png" width="22" alt="ResearchGate">](https://www.researchgate.net/profile/Danila-Valko) [<img src="linkedin.png" width="22" alt="LinkedIn">](http://www.linkedin.com/in/ellariel) [<img src="github.png" width="24" alt="GitHub">](https://github.com/ellariel)<br>
-E-mail:&emsp;d.v.valko@gmail.com</font>
+<font size="4">Links:</font>&emsp;<a href="https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a> <a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a><a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a> <a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a><br>
+<font size="4">E-mail:&emsp;d.v.valko@gmail.com</font>
 
 ### Academic interests and expertise	
 ___
@@ -22,13 +22,13 @@ ___
 ### Professional experience
 ___
 ##### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
-- ***<font size="4">Visiting Researcher</font>***
+- <font size="4"><b><i>Visiting Researcher</i></b></font>
 - <font size="4">Machine Learning, Reinforcement Learning, Green Computing</font>
 
 ##### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
-- ***Data Scientist***, ***Data Engineer***
-- Research and Data Analysis
-- Data Mining and Data Preparation (*Python/PostgreSQL, ETL/ELT, Apache Airflow*)
+- <font size="4"><b><i>Data Scientist</font>, Data Engineer</b></i></font>
+- <font size="4">Research and Data Analysis</font>
+- <font size="4">Data Mining and Data Preparation (<i>Python/PostgreSQL, ETL/ELT, Apache Airflow</i>)
 
 ##### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - ***Senior Researcher***, ***Associate Professor***
