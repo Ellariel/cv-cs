@@ -51,23 +51,23 @@ ___
 
 ### Publications (*selected*)
 ___
-- *Valko, D. & Kudenko, D.* (2023). Increasing energy efficiency of Bitcoin infrastructure with Reinforcement Learning and one-shot path planning for the Lightning Network. *In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023*, London, UK, [https://alaworkshop2023.github.io](https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf)
-- *Valko, D.* (2018). A recommendation system based on data mining of a scientometric research profile. *Software & Systems*, [http://doi.org/10.15827/0236-235X.122.275-283](http://doi.org/10.15827/0236-235X.122.275-283)
-- *Valko, D.* (2016). Training software to perform technological calculations. *Software & Systems*, [http://doi.org/10.15827/0236-235X.114.179-184](http://doi.org/10.15827/0236-235X.114.179-184)
+- <font size="4"><i>Valko, D. & Kudenko, D.</i> (2023). Increasing energy efficiency of Bitcoin infrastructure with Reinforcement Learning and one-shot path planning for the Lightning Network. <i>In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023</i>, London, UK, <a href="https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf">https://alaworkshop2023.github.io</a></font>
+- <font size="4"><i>Valko, D.</i> (2018). A recommendation system based on data mining of a scientometric research profile. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.122.275-283">http://doi.org/10.15827/0236-235X.122.275-283</a></font>
+- <font size="4"><i>Valko, D.</i> (2016). Training software to perform technological calculations. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.114.179-184">http://doi.org/10.15827/0236-235X.114.179-184</a></font>
 
 ### Patents
 ___
-- *Valko, D., Muhina, Yu.* (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. [RU2020616358](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html). 
-- *Valko, D., Zymbler, M.* (2018). Decision support system in the field of scientific research management based on intellectual analysis of scientometric data / Reg. No. [RU2018613068](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html).
-- *Valko, D., Koltashov, A.* (2016). Module for data mining and aggregating of scientometric data from open services on the Internet / Reg. No. [RU2016619028](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html).
-- *Valko, D., Moskvina, V.* (2015). Calculation program for calibration systems for a rolling mill / Reg. No. [RU2015618937](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html).
+- <font size="4"><i>Valko, D., Muhina, Yu.</i> (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html">RU2020616358</a>.</font>
+- <font size="4"><i>Valko, D., Zymbler, M.</i> (2018). Decision support system in the field of scientific research management based on intellectual analysis of scientometric data / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html">RU2018613068</a>.</font>
+- <font size="4"><i>Valko, D., Koltashov, A.</i> (2016). Module for data mining and aggregating of scientometric data from open services on the Internet / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html">RU2016619028</a>.</font>
+- <font size="4"><i>Valko, D., Moskvina, V.</i> (2015). Calculation program for calibration systems for a rolling mill / Reg. No. <a href="https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html">RU2015618937</a>.</font>
 
 ### Other professional skills
 ___
-- Language Skills: Russian (*native*), English (*advanced proficiency*), German (*limited proficiency*)
-- Data Analysis: *Quantitative Methods, Econometrics, Data Mining and Machine Learning*
-- Analysis Software: *Python, R/R-Studio, SPSS, Stata*
-- Software and Web-site Development: *Python, C++, Java, HTML/CSS/JS*
+- <font size="4">Language Skills: Russian (<i>native</i>), English (<i>advanced proficiency</i>), German (<i>limited proficiency</i>)</font>
+- <font size="4">Data Analysis: <i>Quantitative Methods, Econometrics, Data Mining and Machine Learning</i></font>
+- <font size="4">Analysis Software: <i>Python, R/R-Studio, SPSS, Stata</i></font>
+- <font size="4">Software and Web-site Development: <i>Python, C++, Java, HTML/CSS/JS</i></font>
 
 
 
