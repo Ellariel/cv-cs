@@ -1,5 +1,4 @@
 # Danila Valko
-- 
 <table><tr><td><font size="4">Links:</font></td><td>&nbsp;<a href="https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;<a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr><tr><td><font size="4">E-mail:&emsp;d.v.valko@gmail.com</font></td><td></td><td></td><td></td><td></td></tr></table>
 
 ### Academic interests and expertise	
