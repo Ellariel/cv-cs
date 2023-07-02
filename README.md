@@ -39,15 +39,15 @@ ___
 
 ### Courses (*taken recently*)
 ___
-- 2022 &emsp;Data Science Summer School / [Hertie School](https://www.hertie-school.org/en/) ([proof](https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg))
-- 2021 &emsp;Quantitative Methods / [University of Amsterdam at Coursera](https://www.coursera.org/learn/quantitative-methods) ([proof](https://www.coursera.org/verify/96SKPB7CEG3B))
-- 2021 &emsp;Machine Learning and Computer Vision / [IT Korpus](https://korpus.io/about/) ([proof]())
-- 2021 &emsp;Introduction to Data Analysis in Python / [Center for Advanced Governance](https://cpur.ru/en/) ([proof](https://sun9-13.userapi.com/hxyTT5MVc12jYp3g7wB89q5Uy58rD5TgQCjgag/US8zXxUijaM.jpg))
-- 2020 &emsp;10 Courses Specialization "Data Science" / [John Hopkins University at Coursera](https://www.coursera.org/specializations/jhu-data-science) ([proof](https://www.coursera.org/account/accomplishments/specialization/P9XK9DY3Q9CA))
-- 2020 &emsp;4 Courses Specialization "Data Analysis" / [Novosibirsk State University at Coursera]() ([proof](https://www.coursera.org/account/accomplishments/specialization/MZBVE7RHJ7T9))
-- 2020 &emsp;Machine Learning and IT Project Management for Educators / [Moscow Institute of Physics and Technology](https://mipt.ru/english/about/) ([proof](https://sun1.is74.userapi.com/AaslQ7Q_qWX1iA4bfwmYZETJ35DzydmoxImJvQ/BzQ3zFKH9C8.jpg))
-- 2020 &emsp;Information Infrastructure and Artificial Intelligence / [Tomsk State University](https://en.tsu.ru/) ([proof](https://sun9-60.userapi.com/ahMlryfRQFZzJ66Gz0APS2dk7hpGbkCJdMc7Hw/q2H3xsaiWSE.jpg))
-- 2020 &emsp;Artificial Intelligence, Big Data and Machine Learning / [Tomsk State University](https://en.tsu.ru/) ([proof](https://sun9-64.userapi.com/RN4JmbxK7ydbEPg4EDBhK-8JzbLmSLSI5U6Ikw/qUWJyNr3DfU.jpg))
+- 2022 &emsp;<font size="4">Data Science Summer School / <a href="https://www.hertie-school.org/en/">Hertie School</a> (<a href="https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg">proof</a>)</font>
+- 2021 &emsp;<font size="4"><a href="">Quantitative Methods / <a href="https://www.coursera.org/learn/quantitative-methods">University of Amsterdam at Coursera</a> (<a href="https://www.coursera.org/verify/96SKPB7CEG3B">proof</a>)</font>
+- 2021 &emsp;<font size="4">Machine Learning and Computer Vision / <a href="https://korpus.io/about/">IT Korpus</a> (<a href="">proof</a>)</font>
+- 2021 &emsp;<font size="4">Introduction to Data Analysis in Python / <a href="https://cpur.ru/en/">Center for Advanced Governance</a> (<a href="https://sun9-13.userapi.com/hxyTT5MVc12jYp3g7wB89q5Uy58rD5TgQCjgag/US8zXxUijaM.jpg">proof</a>)</font>
+- 2020 &emsp;<font size="4">10 Courses Specialization "Data Science" / <a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins University at Coursera</a> ([<a href="https://www.coursera.org/account/accomplishments/specialization/P9XK9DY3Q9CA">proof</a>)</font>
+- 2020 &emsp;<font size="4">4 Courses Specialization "Data Analysis" / <a href="">Novosibirsk State University at Coursera</a> (<a href="https://www.coursera.org/account/accomplishments/specialization/MZBVE7RHJ7T9">proof</a>)</font>
+- 2020 &emsp;<font size="4">Machine Learning and IT Project Management for Educators / <a href="https://mipt.ru/english/about/">Moscow Institute of Physics and Technology</a> (<a href="https://sun1.is74.userapi.com/AaslQ7Q_qWX1iA4bfwmYZETJ35DzydmoxImJvQ/BzQ3zFKH9C8.jpg">proof</a>)</font>
+- 2020 &emsp;<font size="4">Information Infrastructure and Artificial Intelligence / <a href="https://en.tsu.ru/">Tomsk State University</a> (<a href="https://sun9-60.userapi.com/ahMlryfRQFZzJ66Gz0APS2dk7hpGbkCJdMc7Hw/q2H3xsaiWSE.jpg">proof</a>)</font>
+- 2020 &emsp;<font size="4">Artificial Intelligence, Big Data and Machine Learning / <a href="https://en.tsu.ru/">Tomsk State University</a> (<a href="https://sun9-64.userapi.com/RN4JmbxK7ydbEPg4EDBhK-8JzbLmSLSI5U6Ikw/qUWJyNr3DfU.jpg">proof</a>)</font>
 
 ### Publications (*selected*)
 ___
