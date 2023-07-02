@@ -12,7 +12,7 @@ ___
 ### Education
 ___
 ##### 2018 &emsp;MSc in Computer Science (*cum laude*)
-- <font size="4">[South Ural State University (National Research University)](https://www.susu.ru/en), Russia</font>
+- <font size="4"><a href="https://www.susu.ru/en">South Ural State University (National Research University), Russia</font>
 - Supervisor: [Mikhail Zymbler](https://www.researchgate.net/profile/Mikhail-Zymbler-2)
 
 ##### 2010 &emsp;MA in Finance and Economics (*cum laude*)
