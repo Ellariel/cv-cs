@@ -26,17 +26,17 @@ ___
 - <font size="4">Machine Learning, Reinforcement Learning, Green Computing</font>
 
 ##### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
-- <font size="4"><b><i>Data Scientist, Data Engineer</b></i></font>
+- <font size="4"><b><i>Data Scientist, Data Engineer</i></b></font>
 - <font size="4">Research and Data Analysis</font>
 - <font size="4">Data Mining and Data Preparation (<i>Python/PostgreSQL, ETL/ELT, Apache Airflow</i>)</font>
 
 ##### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
-- <font size="4"><b><i>Senior Researcher, Associate Professor</b></i></font>
+- <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching IT, BA/MA Supervision</font>
 
 ##### 2010 – 2013 &emsp;Mechel-Fund (Non-state pension fund)
-- <font size="4"><b><i>Technician</b></i></font>
+- <font size="4"><b><i>Technician</i></b></font>
 - <font size="4">IT infrastructure maintenance</font>
 
 ### Courses (*taken recently*)
