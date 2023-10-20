@@ -20,7 +20,7 @@ ___
 ### Professional experience
 ___
 ##### 2023 – 2025 &emsp;[OFFIS - Institute for Information Technology](https://www.offis.de/), Carl von Ossietzky University of Oldenburg, Germany
-- <font size="4"><b><i>Researcher</i></b></font>
+- <font size="4"><b><i>Researcher, Software Developer</i></b></font>
 - <font size="4">Co-Simulation of Digitalised and Decentralised Energy Systems</font>
 
 ##### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
