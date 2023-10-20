@@ -19,6 +19,10 @@ ___
 
 ### Professional experience
 ___
+##### 2023 – 2025 &emsp;[OFFIS - Institute for Information Technology](https://www.offis.de/), Carl von Ossietzky University of Oldenburg, Germany
+- <font size="4"><b><i>Researcher</i></b></font>
+- <font size="4">Co-Simulation of Digitalised and Decentralised Energy Systems</font>
+
 ##### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
 - <font size="4"><b><i>Visiting Researcher</i></b></font>
 - <font size="4">Machine Learning, Reinforcement Learning, Green Computing</font>
@@ -67,7 +71,7 @@ ___
 - <font size="4">Language Skills: Russian (<i>native</i>), English (<i>advanced proficiency</i>), German (<i>limited proficiency</i>)</font>
 - <font size="4">Data Analysis: <i>Quantitative Methods, Econometrics, Data Mining and Machine Learning</i></font>
 - <font size="4">Analysis Software: <i>Python, R/R-Studio, SPSS, Stata</i></font>
-- <font size="4">Software and Web-site Development: <i>Python, C++, Java, HTML/CSS/JS</i></font>
+- <font size="4">Software and Web-site Development: <i>Python, C# Java, HTML/CSS/JS, QA:SpecFlow/Playwright</i></font>
 
 
 
