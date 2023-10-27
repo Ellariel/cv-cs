@@ -6,6 +6,7 @@ ___
 - <font size="4">Data Science for Sustainability</font>
 - <font size="4">Green computing & Green AI</font>
 - <font size="4">Reinforcement Learning</font>
+- <font size="4">Simulations of complex systems</font>
 
 ### Education
 ___
