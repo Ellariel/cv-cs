@@ -25,7 +25,7 @@ ___
 - <font size="4">Co-Simulation of Digitalised and Decentralised Energy Systems</font>
 
 ##### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
-- <font size="4"><b><i>Visiting Researcher</i></b></font>
+- <font size="4"><b><i>Visiting Researcher</i></b> (12 months)</font>
 - <font size="4">Machine Learning, Reinforcement Learning, Green Computing</font>
 
 ##### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
