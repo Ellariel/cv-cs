@@ -1,5 +1,6 @@
 # Danila Valko
-<font size="3"><i>MSc in Computer Science</i></font>
+
+<font size="4"><i>MSc in Computer Science</i></font>
 <table><tr><td><p></p></td><td>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8058-7539"><img src="orcid.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>d.v.valko@gmail.com</sup>
 
 ### Academic interests and expertise	
@@ -11,35 +12,35 @@ ___
 
 ### Education
 ___
-##### 2018 &emsp;MSc in Computer Science (*cum laude*)
+#### 2018 &emsp;MSc in Computer Science (*cum laude*)
 - <font size="4"><a href="https://www.susu.ru/en">South Ural State University (National Research University)</a>, Russia</font>
 - <font size="4">Supervisor: <a href="https://www.researchgate.net/profile/Mikhail-Zymbler-2">Mikhail Zymbler</a></font>
 
-##### 2010 &emsp;MA in Finance and Economics (*cum laude*)
+#### 2010 &emsp;MA in Finance and Economics (*cum laude*)
 - <font size="4"><a href="https://www.inueco.ru/">South Ural Institute of Management and Economics</a>, Russia</font>
 - <font size="4">Supervisor: Irina Sergeicheva</font>
 
 ### Professional experience
 ___
-##### 2023 – 2025 &emsp;[OFFIS - Institute for Information Technology](https://www.offis.de/), Carl von Ossietzky University of Oldenburg, Germany
+#### 2023 – 2025 &emsp;[OFFIS - Institute for Information Technology](https://www.offis.de/), Carl von Ossietzky University of Oldenburg, Germany
 - <font size="4"><b><i>Researcher, Software Developer</i></b></font>
 - <font size="4">Co-Simulation of Digitalised and Decentralised Energy Systems</font>
 
-##### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
+#### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
 - <font size="4"><b><i>Visiting Researcher</i></b> (12 months)</font>
 - <font size="4">Machine Learning, Reinforcement Learning, Green Computing</font>
 
-##### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
+#### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
 - <font size="4"><b><i>Data Scientist, Data Engineer</i></b></font>
 - <font size="4">Research and Data Analysis</font>
 - <font size="4">Data Mining and Data Preparation (<i>Python/PostgreSQL, ETL/ELT, Apache Airflow</i>)</font>
 
-##### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
+#### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching IT, BA/MA Supervision</font>
 
-##### 2010 – 2013 &emsp;Mechel-Fund (Non-state pension fund)
+#### 2010 – 2013 &emsp;Mechel-Fund (Non-state pension fund)
 - <font size="4"><b><i>Technician</i></b></font>
 - <font size="4">IT infrastructure maintenance</font>
 
