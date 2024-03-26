@@ -12,11 +12,11 @@ ___
 
 ### Education
 ___
-#### 2018 &emsp;MSc in Computer Science (*summa cum laude*)
+#### 2018 &emsp;MSc in Computer Science (*maxima cum laude*)
 - <font size="4"><a href="https://www.susu.ru/en">South Ural State University (National Research University)</a>, Russia</font>
 - <font size="4">Supervisor: <a href="https://www.researchgate.net/profile/Mikhail-Zymbler-2">Mikhail Zymbler</a></font>
 
-#### 2010 &emsp;MA in Finance and Economics (*summa cum laude*)
+#### 2010 &emsp;MA in Finance and Economics (*maxima cum laude*)
 - <font size="4"><a href="https://www.inueco.ru/">South Ural Institute of Management and Economics</a>, Russia</font>
 - <font size="4">Supervisor: Irina Sergeicheva</font>
 
