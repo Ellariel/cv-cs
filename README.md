@@ -5,10 +5,10 @@
 
 ### Academic interests and expertise	
 ___
-- <font size="4">Data Science for Sustainability</font>
+- <font size="4">Co-simulation of multi-modal energy systems</font>
 - <font size="4">Green computing & Green AI</font>
-- <font size="4">Co-Simulations of complex systems</font>
-- <font size="4">Reinforcement Learning</font>
+- <font size="4">Data Science for Sustainability</font>
+- <font size="4">Deep Reinforcement Learning</font>
 
 ### Education
 ___
