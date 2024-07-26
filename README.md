@@ -63,6 +63,10 @@ ___
 - <font size="4"><i>Valko, D.</i> (2018). A recommendation system based on data mining of a scientometric research profile. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.122.275-283">http://doi.org/10.15827/0236-235X.122.275-283</a></font>
 - <font size="4"><i>Valko, D.</i> (2016). Training software to perform technological calculations. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.114.179-184">http://doi.org/10.15827/0236-235X.114.179-184</a></font>
 
+### Preprints (*recent*)
+___
+- <font size="4"><i>Valko, D., Kudenko, D.</i> (2024). Sustainable broadcasting in Blockchain Network with Reinforcement Learning. <i>arXiv</i>, <a href="https://doi.org/10.48550/arXiv.2407.15616">https://doi.org/10.48550/arXiv.2407.15616</a></font>
+
 ### Patents
 ___
 - <font size="4"><i>Valko, D., Muhina, Yu.</i> (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html">RU2020616358</a>.</font>
