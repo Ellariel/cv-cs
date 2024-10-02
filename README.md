@@ -58,7 +58,7 @@ ___
 
 ### Publications (*selected*)
 ___
-- <font size="4"><i>Valko, D., Kudenko, D.</i> (2024). Reducing CO₂ emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network? <i>Computer Networks</i>, <a href="https://doi.org/10.1016/j.comnet.2024.110297">https://doi.org/10.1016/j.comnet.2024.110297</a>, <i>Scopus (Q1), WoS</i></font>
+- <font size="4"><i>Valko, D., Kudenko, D.</i> (2024). Reducing CO₂ emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network? <i>Computer Networks</i>, <a href="https://doi.org/10.1016/j.comnet.2024.110297">https://doi.org/10.1016/j.comnet.2024.110297</a></font>
 - <font size="4"><i>Valko, D., Kudenko, D.</i> (2023). Increasing energy efficiency of Bitcoin infrastructure with Reinforcement Learning and one-shot path planning for the Lightning Network. <i>In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023</i>, London, UK, <a href="https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf">https://alaworkshop2023.github.io</a></font>
 - <font size="4"><i>Valko, D.</i> (2018). A recommendation system based on data mining of a scientometric research profile. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.122.275-283">http://doi.org/10.15827/0236-235X.122.275-283</a></font>
 - <font size="4"><i>Valko, D.</i> (2016). Training software to perform technological calculations. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.114.179-184">http://doi.org/10.15827/0236-235X.114.179-184</a></font>
