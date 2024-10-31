@@ -62,9 +62,8 @@ ___
 - <font size="4"><i>Valko, D., Alsharif, S., & Tolk, D.</i> (2024). An open-source carbon emissions simulator for smart grid co-simulation scenarios. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.13984401">https://doi.org/10.5281/zenodo.13984401</a></font>
 - <font size="4"><i>Valko, D., Alsharif, S., Tolk, D., & Grimm, T.</i> (2024). MASSCA: Scalable multi-agent system framework for smart power cell co-simulation. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.14004357">https://doi.org/10.5281/zenodo.14004357</a></font>
 - <font size="4"><i>Valko, D., Kudenko, D.</i> (2023). Increasing energy efficiency of Bitcoin infrastructure with Reinforcement Learning and one-shot path planning for the Lightning Network. <i>In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023</i>, London, UK, <a href="https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf">https://alaworkshop2023.github.io</a></font>
-<!--
 - <font size="4"><i>Valko, D.</i> (2018). A recommendation system based on data mining of a scientometric research profile. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.122.275-283">http://doi.org/10.15827/0236-235X.122.275-283</a></font>
-- <font size="4"><i>Valko, D.</i> (2016). Training software to perform technological calculations. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.114.179-184">http://doi.org/10.15827/0236-235X.114.179-184</a></font> -->
+- <font size="4"><i>Valko, D.</i> (2016). Training software to perform technological calculations. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.114.179-184">http://doi.org/10.15827/0236-235X.114.179-184</a></font>
 
 ### Preprints (*recent*)
 ___
