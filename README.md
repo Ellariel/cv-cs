@@ -47,11 +47,11 @@ ___
 ### Courses (*taken recently*)
 ___
 - 2022 &emsp;<font size="4">Data Science Summer School / <a href="https://www.hertie-school.org/en/">Hertie School</a></font>
-- 2021 &emsp;<font size="4">Quantitative Methods / <a href="https://www.coursera.org/learn/quantitative-methods">University of Amsterdam at Coursera</a></font>
+- 2021 &emsp;<font size="4">Quantitative Methods / <a href="https://www.coursera.org/learn/quantitative-methods">University of Amsterdam | Coursera</a></font>
 - 2021 &emsp;<font size="4">Machine Learning and Computer Vision / <a href="https://korpus.io/about/">IT Korpus</a></font>
 - 2021 &emsp;<font size="4">Introduction to Data Analysis in Python / <a href="https://cpur.ru/en/">Center for Advanced Governance</a></font>
-- 2020 &emsp;<font size="4">Data Science, 10 Courses Specialization / <a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins University at Coursera</a></font>
-- 2020 &emsp;<font size="4">Data Analysis, 4 Courses Specialization / <a href="">Novosibirsk State University at Coursera</a></font>
+- 2020 &emsp;<font size="4">Data Science, 10 courses Specialization / <a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins University | Coursera</a></font>
+- 2020 &emsp;<font size="4">Data Analysis, 4 courses Specialization / <a href="">Novosibirsk State University | Coursera</a></font>
 - 2020 &emsp;<font size="4">Machine Learning and IT Project Management for Educators / <a href="https://mipt.ru/english/about/">Moscow Institute of Physics and Technology</a></font>
 - 2020 &emsp;<font size="4">IT Infrastructure and Artificial Intelligence / <a href="https://en.tsu.ru/">Tomsk State University</a></font>
 - 2020 &emsp;<font size="4">Artificial Intelligence, Big Data and Machine Learning / <a href="https://en.tsu.ru/">Tomsk State University</a></font>
