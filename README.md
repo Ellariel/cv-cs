@@ -58,6 +58,7 @@ ___
 
 ### Publications (*selected*)
 ___
+- <font size="4"><i>Valko, D., & Kudenko, D.</i> (2025). Hybrid pathfinding optimization for the lightning network with reinforcement learning. <i>Engineering Applications of Artificial Intelligence</i>, <a href="https://doi.org/10.1016/j.engappai.2025.110225">https://doi.org/10.1016/j.engappai.2025.110225</a></font>
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Increasing energy efficiency of bitcoin infrastructure with reinforcement learning and one-shot path planning for the lightning network. <i>Neural Computing and Applications</i>, <a href="https://doi.org/10.1007/s00521-024-10588-2">https://doi.org/10.1007/s00521-024-10588-2</a></font>
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Reducing CO₂ emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network? <i>Computer Networks</i>, <a href="https://doi.org/10.1016/j.comnet.2024.110297">https://doi.org/10.1016/j.comnet.2024.110297</a></font>
 - <font size="4"><i>Valko, D., Alsharif, S., & Tolk, D.</i> (2024). An open-source carbon emissions simulator for smart grid co-simulation scenarios. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.13984401">https://doi.org/10.5281/zenodo.13984401</a></font>
