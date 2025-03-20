@@ -70,6 +70,10 @@ ___
 ___
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Sustainable broadcasting in the Blockchain Network with Reinforcement Learning. <i>arXiv</i>, <a href="https://doi.org/10.48550/arXiv.2407.15616">https://doi.org/10.48550/arXiv.2407.15616</a></font>
 
+### Prepared datasets and data papers (*recent*)
+___
+- <font size="4"><i>Petersen, K., Valko, D., & Tolk, D.</i> (2025). hyBit open data collection. <i>Zenodo</i>, <a href="https://doi.org/10.5281/zenodo.15052032">https://doi.org/10.5281/zenodo.15052032</a></font>
+
 ### Patents
 ___
 - <font size="4"><i>Valko, D., & Muhina, Yu.</i> (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html">RU2020616358</a>.</font>
