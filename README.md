@@ -68,7 +68,7 @@ ___
 
 ### Preprints (*recent*)
 ___
-- <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Sustainable broadcasting in the Blockchain Network with Reinforcement Learning. <i>arXiv</i>, <a href="https://doi.org/10.48550/arXiv.2407.15616">https://doi.org/10.48550/arXiv.2407.15616</a></font>
+- <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Sustainable broadcasting in Blockchain Networks with Reinforcement Learning. <i>arXiv</i>, <a href="https://doi.org/10.48550/arXiv.2407.15616">https://doi.org/10.48550/arXiv.2407.15616</a></font>
 
 ### Prepared datasets and data papers (*recent*)
 ___
