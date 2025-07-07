@@ -15,7 +15,7 @@ ___
 - <font size="4"><a href="https://www.susu.ru/en">South Ural State University (National Research University)</a>, Russia</font>
 - <font size="4">Supervisor: <a href="https://www.researchgate.net/profile/Mikhail-Zymbler-2">Mikhail Zymbler</a></font>
 
-#### 2010 &emsp;M.Sc. in Finance and Economics (*summa cum laude*)
+#### 2010 &emsp;M.Sc. in Economics (*summa cum laude*)
 - <font size="4"><a href="https://www.inueco.ru/">South Ural Institute of Management and Economics</a>, Russia</font>
 - <font size="4">Supervisor: Irina Sergeicheva</font>
 
@@ -38,7 +38,7 @@ ___
 #### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
-- <font size="4">Teaching IT, B.A./M.A. Thesis Supervision</font>
+- <font size="4">Teaching IT, B.Sc./M.Sc. Thesis Supervision</font>
 
 #### 2010 – 2013 &emsp;Mechel-Fund (NGO), Russia
 - <font size="4"><b><i>Technician</i></b></font>
