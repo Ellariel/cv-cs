@@ -26,6 +26,10 @@ ___
 - <font size="4">Energy Informatics</font>
 - <font size="4">Smart Grids co-simulation</font>
 
+#### 2023 – 2023 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
+- <font size="4"><b><i>Data Analyst, Intern</i></b> (3 months)</font>
+- <font size="4">Data Analysis, Machine Learning</font>
+
 #### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
 - <font size="4"><b><i>Visiting Researcher</i></b> (12 months)</font>
 - <font size="4">AI & Deep Reinforcement Learning, Green Computing</font>
