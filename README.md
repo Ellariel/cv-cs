@@ -23,12 +23,13 @@ ___
 ___
 #### 2023 – n.d. &emsp;[OFFIS - Institute for Information Technology](https://www.offis.de/), Carl von Ossietzky University, Germany
 - <font size="4"><b><i>Researcher, Software Developer</i></b></font>
-- <font size="4">Energy Informatics</font>
-- <font size="4">Smart Grids co-simulation</font>
+- <font size="4">Energy Informatics, Smart grid co-simulation</font>
+- <font size="4">Integration of carbon intensity signals</font>
 
 #### 2023 – 2023 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
-- <font size="4"><b><i>Data Analyst, Intern</i></b> (3 months)</font>
+- <font size="4"><b><i>Data Analyst, Internship at a AI startup</i></b> (3 months)</font>
 - <font size="4">Data Analysis, Machine Learning</font>
+- <font size="4">Modeling and analysis of sustainablity preferences</font>
 
 #### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
 - <font size="4"><b><i>Visiting Researcher</i></b> (12 months)</font>
@@ -37,7 +38,7 @@ ___
 #### 2021 – 2022 &emsp;[Center for Advanced Governance (NGO)](https://cpur.ru/en/), Russia
 - <font size="4"><b><i>Data Scientist, Data Engineer</i></b></font>
 - <font size="4">Research & Data Analysis</font>
-- <font size="4">Data Mining & Preparation (<i>Python/PostgreSQL, ETL/ELT, Apache Airflow</i>)</font>
+- <font size="4">Data Mining & Pipline optimization (<i>Python/PostgreSQL, ETL/ELT, Apache Airflow</i>)</font>
 
 #### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
@@ -67,12 +68,6 @@ ___
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Reducing CO₂ emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network? <i>Computer Networks</i>, <a href="https://doi.org/10.1016/j.comnet.2024.110297">https://doi.org/10.1016/j.comnet.2024.110297</a></font>
 - <font size="4"><i>Valko, D., Alsharif, S., & Tolk, D.</i> (2024). An open-source carbon emissions simulator for smart grid co-simulation scenarios. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.13984401">https://doi.org/10.5281/zenodo.13984401</a></font>
 - <font size="4"><i>Valko, D., Alsharif, S., Tolk, D., & Grimm, T.</i> (2024). MASSCA: Scalable multi-agent system framework for smart power cell co-simulation. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.14004357">https://doi.org/10.5281/zenodo.14004357</a></font>
-- <font size="4"><i>Valko, D.</i> (2018). A recommendation system based on data mining of a scientometric research profile. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.122.275-283">http://doi.org/10.15827/0236-235X.122.275-283</a></font>
-- <font size="4"><i>Valko, D.</i> (2016). Training software to perform technological calculations. <i>Software & Systems</i>, <a href="http://doi.org/10.15827/0236-235X.114.179-184">http://doi.org/10.15827/0236-235X.114.179-184</a></font>
-
-### Preprints (*recent*)
-___
-- <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Sustainable broadcasting in Blockchain Networks with Reinforcement Learning. <i>arXiv</i>, <a href="https://doi.org/10.48550/arXiv.2407.15616">https://doi.org/10.48550/arXiv.2407.15616</a></font>
 
 ### Prepared datasets and data papers (*recent*)
 ___
@@ -81,13 +76,13 @@ ___
 ### Patents
 ___
 - <font size="4"><i>Valko, D., & Muhina, Yu.</i> (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html">RU2020616358</a>.</font>
-- <font size="4"><i>Valko, D., & Zymbler, M.</i> (2018). Decision support system in the field of scientific research management based on intellectual analysis of scientometric data / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html">RU2018613068</a>.</font>
-- <font size="4"><i>Valko, D., & Koltashov, A.</i> (2016). Module for data mining and aggregating of scientometric data from open services on the Internet / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html">RU2016619028</a>.</font>
-- <font size="4"><i>Valko, D., & Moskvina, V.</i> (2015). Calculation program for calibration systems for a rolling mill / Reg. No. <a href="https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html">RU2015618937</a>.</font>
+- <font size="4"><i>Valko, D., & Zymbler, M.</i> (2018). Decision support system for scientific research management based on intelligent analysis of scientometric data / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html">RU2018613068</a>.</font>
+- <font size="4"><i>Valko, D., & Koltashov, A.</i> (2016). Module for data mining and scientometric aggregation from open data services / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html">RU2016619028</a>.</font>
+- <font size="4"><i>Valko, D., & Moskvina, V.</i> (2015). Computation software for steel rolling calibration systems / Reg. No. <a href="https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html">RU2015618937</a>.</font>
 
 ### Other professional skills
 ___
-- <font size="4">Language skills: Russian (<i>native</i>), English (<i>advanced</i>), German (<i>limited</i>)</font>
+- <font size="4">Language skills: Russian (<i>native</i>), English (<i>advanced</i>), German (<i>advanced</i>)</font>
 - <font size="4">Software Development skills: <i>Python, C#, Java, HTML/CSS/JS, QA:SpecFlow/Playwright</i></font>
 - <font size="4">ML & Data Science skills: <i>Data Mining and Machine Learning in Python, PyTorch, TensorFlow, OpenCV</i></font>
 
