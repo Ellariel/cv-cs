@@ -22,31 +22,31 @@ ___
 ### Professional experience
 ___
 #### 2023 – n.d. &emsp;[OFFIS - Institute for Information Technology](https://www.offis.de/), Carl von Ossietzky University, Germany
-- <font size="4"><b><i>Researcher, Software Developer</i></b></font>
+- <font size="4"><b><i>Researcher, Software Developer</i></b><i>, Full-time</i></font>
 - <font size="4">Energy Informatics, Smart grid co-simulation</font>
 - <font size="4">Integration of carbon intensity signals</font>
 
 #### 2023 – 2023 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
-- <font size="4"><b><i>Data Analyst, Internship at a AI startup</i></b> (3 months)</font>
+- <font size="4"><b><i>Data Research Analyst</i></b><i>, Part-time</i> (3 months)</font>
 - <font size="4">Data Analysis, Machine Learning</font>
 - <font size="4">Modeling and analysis of sustainablity preferences</font>
 
 #### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
-- <font size="4"><b><i>Visiting Researcher</i></b> (12 months)</font>
+- <font size="4"><b><i>Visiting Researcher</i></b><i>, Full-time</i> (12 months)</font>
 - <font size="4">AI & Deep Reinforcement Learning, Green Computing</font>
 
 #### 2021 – 2022 &emsp;[Center for Advanced Governance (NGO)](https://cpur.ru/en/), Russia
-- <font size="4"><b><i>Data Scientist, Data Engineer</i></b></font>
+- <font size="4"><b><i>Data Scientist, Data Engineer</i></b><i>, Part-time</i></font>
 - <font size="4">Research & Data Analysis</font>
 - <font size="4">Data Mining & Pipline optimization (<i>Python/PostgreSQL, ETL/ELT, Apache Airflow</i>)</font>
 
 #### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
-- <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
+- <font size="4"><b><i>Senior Researcher, Associate Professor</i></b><i>, Full-time</i></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching IT, B.Sc./M.Sc. Thesis Supervision</font>
 
 #### 2010 – 2013 &emsp;Mechel-Fund (NGO), Russia
-- <font size="4"><b><i>Technician</i></b></font>
+- <font size="4"><b><i>Technician</i></b><i>, Part-time</i></font>
 - <font size="4">IT-infrastructure maintenance</font>
 
 ### Courses (*taken recently*)
