@@ -7,7 +7,7 @@
 ___
 - <font size="4">Energy Informatics & Sustainability</font>
 - <font size="4">Data Science for Sustainability</font>
-- <font size="4">Green computing & Green AI</font>
+- <font size="4">Green Computing & Green AI</font>
 
 ### Education
 ___
@@ -21,31 +21,31 @@ ___
 
 ### Professional experience
 ___
-#### 2023 – n.d. &emsp;[OFFIS - Institute for Information Technology](https://www.offis.de/), Carl von Ossietzky University, Germany
+#### 2023.10 – n.d. &emsp;[OFFIS - Institute for Information Technology](https://www.offis.de/), Carl von Ossietzky University, Germany
 - <font size="4"><b><i>Researcher, Software Developer</i></b><i>, Full-time</i></font>
 - <font size="4">Energy Informatics, Smart grid co-simulation</font>
 - <font size="4">Integration of carbon intensity signals</font>
 
-#### 2023 – 2023 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
-- <font size="4"><b><i>Data Research Analyst</i></b><i>, Part-time</i> (3 months)</font>
+#### 2023.08 – 2023.10 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
+- <font size="4"><b><i>Data Research Analyst</i></b><i>, Part-time</i></font>
 - <font size="4">Data Analysis, Machine Learning</font>
 - <font size="4">Modeling and analysis of sustainablity preferences</font>
 
-#### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
-- <font size="4"><b><i>Visiting Researcher</i></b><i>, Full-time</i> (12 months)</font>
+#### 2022.09 – 2023.10 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
+- <font size="4"><b><i>Visiting Researcher</i></b><i>, Full-time</i></font>
 - <font size="4">AI & Deep Reinforcement Learning, Green Computing</font>
 
-#### 2021 – 2022 &emsp;[Center for Advanced Governance (NGO)](https://cpur.ru/en/), Russia
+#### 2021.07 – 2022.09 &emsp;[Center for Advanced Governance (NGO)](https://cpur.ru/en/), Russia
 - <font size="4"><b><i>Data Scientist, Data Engineer</i></b><i>, Part-time</i></font>
 - <font size="4">Research & Data Analysis</font>
-- <font size="4">Data Mining & Pipline optimization (<i>Python/PostgreSQL, ETL/ELT, Apache Airflow</i>)</font>
+- <font size="4">Data Mining & ETL optimization (<i>Python/PostgreSQL, ETL/ELT, Apache Airflow</i>)</font>
 
-#### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
+#### 2014.09 – 2022.08 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - <font size="4"><b><i>Senior Researcher, Associate Professor</i></b><i>, Full-time</i></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching IT, B.Sc./M.Sc. Thesis Supervision</font>
 
-#### 2010 – 2013 &emsp;Mechel-Fund (NGO), Russia
+#### 2010.05 – 2013.05 &emsp;Mechel Foundation (NGO), Russia
 - <font size="4"><b><i>Technician</i></b><i>, Part-time</i></font>
 - <font size="4">IT-infrastructure maintenance</font>
 
@@ -65,6 +65,7 @@ ___
 ___
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2025). Hybrid pathfinding optimization for the lightning network with reinforcement learning. <i>Engineering Applications of Artificial Intelligence</i>, <a href="https://doi.org/10.1016/j.engappai.2025.110225">https://doi.org/10.1016/j.engappai.2025.110225</a></font>
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2025). Increasing energy efficiency of bitcoin infrastructure with reinforcement learning and one-shot path planning for the lightning network. <i>Neural Computing and Applications</i>, <a href="https://doi.org/10.1007/s00521-024-10588-2">https://doi.org/10.1007/s00521-024-10588-2</a></font>
+- <font size="4"><i>Alsharif, S., Valko, D., & Veith, E. M. S. P.</i> (2025). Dynamic optimization-based method for determining the flexibility potential at vertical system interconnections. <i>In Proc. of 28th International Conference and Exhibition on Electricity Distribution (CIRED 2025), Geneva, Switzerland</i>, <a href="https://doi.org/10.1049/icp.2025.1795">https://doi.org/10.1049/icp.2025.1795</a></font>
 - <font size="4"><i>Alsharif, S., Valko, D., Wibbeke, J., & Lehnhoff, S.</i> (2025). Co-simulation and MAS approach for assessment of large-scale electrolysers potential in flexibility markets. <i>In Proc. of 2025 IEEE Kiel PowerTech Conference, Kiel, Germany</i>, <a href="https://doi.org/10.1109/PowerTech59965.2025.11180369">https://doi.org/10.1109/PowerTech59965.2025.11180369</a></font>
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Reducing CO₂ emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network? <i>Computer Networks</i>, <a href="https://doi.org/10.1016/j.comnet.2024.110297">https://doi.org/10.1016/j.comnet.2024.110297</a></font>
 - <font size="4"><i>Valko, D., Alsharif, S., & Tolk, D.</i> (2024). An open-source carbon emissions simulator for smart grid co-simulation scenarios. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.13984401">https://doi.org/10.5281/zenodo.13984401</a></font>
