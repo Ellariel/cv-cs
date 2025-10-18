@@ -65,13 +65,20 @@ ___
 ___
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2025). Hybrid pathfinding optimization for the lightning network with reinforcement learning. <i>Engineering Applications of Artificial Intelligence</i>, <a href="https://doi.org/10.1016/j.engappai.2025.110225">https://doi.org/10.1016/j.engappai.2025.110225</a></font>
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2025). Increasing energy efficiency of bitcoin infrastructure with reinforcement learning and one-shot path planning for the lightning network. <i>Neural Computing and Applications</i>, <a href="https://doi.org/10.1007/s00521-024-10588-2">https://doi.org/10.1007/s00521-024-10588-2</a></font>
+- <font size="4"><i>Alsharif, S., Valko, D., Wibbeke, J., & Lehnhoff, S.</i> (2025). Co-simulation and MAS approach for assessment of large-scale electrolysers potential in flexibility markets. <i>In Proc. of 2025 IEEE Kiel PowerTech Conference, Kiel, Germany</i>, <a href="https://doi.org/10.1109/PowerTech59965.2025.11180369">https://doi.org/10.1109/PowerTech59965.2025.11180369</a></font>
 - <font size="4"><i>Valko, D., & Kudenko, D.</i> (2024). Reducing CO₂ emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network? <i>Computer Networks</i>, <a href="https://doi.org/10.1016/j.comnet.2024.110297">https://doi.org/10.1016/j.comnet.2024.110297</a></font>
 - <font size="4"><i>Valko, D., Alsharif, S., & Tolk, D.</i> (2024). An open-source carbon emissions simulator for smart grid co-simulation scenarios. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.13984401">https://doi.org/10.5281/zenodo.13984401</a></font>
 - <font size="4"><i>Valko, D., Alsharif, S., Tolk, D., & Grimm, T.</i> (2024). MASSCA: Scalable multi-agent system framework for smart power cell co-simulation. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.14004357">https://doi.org/10.5281/zenodo.14004357</a></font>
 
 ### Prepared datasets and data papers (*recent*)
 ___
+- <font size="4"><i>Valko, D., & Marx Gómez, J.</i> (2025). Geolocated lightning network topology snapshots: A dataset covering 2019–2023. <i>Harvard Dataverse</i>, <a href="https://doi.org/10.7910/DVN/2OAVO6">https://doi.org/10.7910/DVN/2OAVO6</a></font>
 - <font size="4"><i>Petersen, K., Valko, D., & Tolk, D.</i> (2025). hyBit open data collection. <i>Zenodo</i>, <a href="https://doi.org/10.5281/zenodo.15052032">https://doi.org/10.5281/zenodo.15052032</a></font>
+
+### Preprints (*recent*)
+___
+- <font size="4"><i>Valko, D., & Marx Gómez, J.</i> (2025). Recent advances in global payment channel networks: A systematic literature review. <i>Research Square</i>, <a href="https://doi.org/10.21203/rs.3.rs-7705514/v1">https://doi.org/10.21203/rs.3.rs-7705514/v1</a></font>
+- <font size="4"><i>Valko, D.</i> (2025). When FAIR isn’t enough: Towards sustainable research data and software. <i>SSRN</i>, <a href="https://doi.org/10.2139/ssrn.5546379">https://doi.org/10.2139/ssrn.5546379</a></font>
 
 ### Patents
 ___
