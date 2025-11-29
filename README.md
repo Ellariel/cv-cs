@@ -3,11 +3,13 @@
 <font size="4"><i>M.Sc. in Computer Science</i></font><br>
 <table><tr><td>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8058-7539"><img src="orcid.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="http://www.linkedin.com/in/danila-valko"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>danila.valko@proton.me</sup>
 
+
 ### Academic interests and expertise	
 ___
 - <font size="4">Energy Informatics & Sustainability</font>
 - <font size="4">Green Computing & Green AI</font>
 - <font size="4">Data Science for Sustainability</font>
+
 
 ### Education
 ___
@@ -18,6 +20,7 @@ ___
 #### 2010 &emsp;M.Sc. in Economics (*summa cum laude*)
 - <font size="4"><a href="https://www.inueco.ru/">South Ural Institute of Management and Economics</a>, Russia</font>
 - <font size="4">Supervisor: Irina Sergeicheva</font>
+
 
 ### Professional experience
 ___
@@ -49,6 +52,7 @@ ___
 - <font size="4"><b><i>Technician</i></b><i>, Part-time</i></font>
 - <font size="4">IT-infrastructure maintenance</font>
 
+
 ### Courses (*taken recently*)
 ___
 - 2022 &emsp;<font size="4">Data Science Summer School / <a href="https://www.hertie-school.org/en/">Hertie School</a></font>
@@ -60,6 +64,7 @@ ___
 - 2020 &emsp;<font size="4">Machine Learning and IT Project Management for Educators / <a href="https://mipt.ru/english/about/">Moscow Institute of Physics and Technology</a></font>
 - 2020 &emsp;<font size="4">IT Infrastructure and Artificial Intelligence / <a href="https://en.tsu.ru/">Tomsk State University</a></font>
 - 2020 &emsp;<font size="4">Artificial Intelligence, Big Data and Machine Learning / <a href="https://en.tsu.ru/">Tomsk State University</a></font>
+
 
 ### Publications (*selected*)
 ___
@@ -73,10 +78,12 @@ ___
 - <font size="4"><i>Valko, D., Alsharif, S., & Tolk, D.</i> (2024). An open-source carbon emissions simulator for smart grid co-simulation scenarios. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.13984401">https://doi.org/10.5281/zenodo.13984401</a></font>
 - <font size="4"><i>Valko, D., Alsharif, S., Tolk, D., & Grimm, T.</i> (2024). MASSCA: Scalable multi-agent system framework for smart power cell co-simulation. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.14004357">https://doi.org/10.5281/zenodo.14004357</a></font>
 
+
 ### Prepared datasets and data papers (*recent*)
 ___
 - <font size="4"><i>Valko, D., & Marx Gómez, J.</i> (2025). Geolocated lightning network topology snapshots: A dataset covering 2019–2023. <i>Harvard Dataverse</i>, <a href="https://doi.org/10.7910/DVN/2OAVO6">https://doi.org/10.7910/DVN/2OAVO6</a></font>
 - <font size="4"><i>Petersen, K., Valko, D., & Tolk, D.</i> (2025). hyBit open data collection. <i>Zenodo</i>, <a href="https://doi.org/10.5281/zenodo.15052032">https://doi.org/10.5281/zenodo.15052032</a></font>
+
 
 ### Preprints (*recent*)
 ___
@@ -84,12 +91,14 @@ ___
 <!-- - <font size="4"><i>Valko, D., & Marx Gómez, J.</i> (2025). Recent advances in global payment channel networks: A systematic literature review. <i>Research Square</i>, <a href="https://doi.org/10.21203/rs.3.rs-7705514/v1">https://doi.org/10.21203/rs.3.rs-7705514/v1</a></font> -->
 - <font size="4"><i>Valko, D.</i> (2025). When FAIR isn’t enough: Towards sustainable research data and software. <i>SSRN</i>, <a href="https://doi.org/10.2139/ssrn.5546379">https://doi.org/10.2139/ssrn.5546379</a></font>
 
+
 ### Patents
 ___
 - <font size="4"><i>Valko, D., & Muhina, Yu.</i> (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html">RU2020616358</a>.</font>
 - <font size="4"><i>Valko, D., & Zymbler, M.</i> (2018). Decision support system for scientific research management based on intelligent analysis of scientometric data / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html">RU2018613068</a>.</font>
 - <font size="4"><i>Valko, D., & Koltashov, A.</i> (2016). Module for data mining and scientometric aggregation from open data services / Reg. No. <a href="https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html">RU2016619028</a>.</font>
 - <font size="4"><i>Valko, D., & Moskvina, V.</i> (2015). Computation software for steel rolling calibration systems / Reg. No. <a href="https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html">RU2015618937</a>.</font>
+
 
 ### Other professional skills
 ___
