@@ -55,6 +55,7 @@ ___
 
 ### Courses (*taken recently*)
 ___
+- 2025 &emsp;<font size="4">Green Software Practitioner / <a href="https://learn.greensoftware.foundation/">Green Software Foundation</a></font>
 - 2022 &emsp;<font size="4">Data Science Summer School / <a href="https://www.hertie-school.org/en/">Hertie School</a></font>
 - 2021 &emsp;<font size="4">Quantitative Methods / <a href="https://www.coursera.org/learn/quantitative-methods">University of Amsterdam | Coursera</a></font>
 - 2021 &emsp;<font size="4">Machine Learning and Computer Vision / <a href="https://korpus.io/about/">IT Korpus</a></font>
