@@ -83,7 +83,7 @@ ___
 
 ### Prepared datasets and data papers (*recent*)
 ___
-- <font size="4"><i>Valko, D., & Marx Gómez, J.</i> (2025). Geolocated lightning network topology snapshots: A dataset covering 2019–2023. <i>Harvard Dataverse</i>, <a href="https://doi.org/10.7910/DVN/2OAVO6">https://doi.org/10.7910/DVN/2OAVO6</a></font>
+- <font size="4"><i>Valko, D., & Marx Gómez, J.</i> (2025). Geolocated lightning network topology snapshots: A dataset covering 2019–2023. <i>Scientific Data</i>, <a href="https://doi.org/10.1038/s41597-025-06413-7">https://doi.org/10.1038/s41597-025-06413-7</a></font>
 - <font size="4"><i>Petersen, K., Valko, D., & Tolk, D.</i> (2025). hyBit open data collection. <i>Zenodo</i>, <a href="https://doi.org/10.5281/zenodo.15052032">https://doi.org/10.5281/zenodo.15052032</a></font>
 
 
