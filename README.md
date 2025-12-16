@@ -90,8 +90,8 @@ ___
 ### Preprints (*recent*)
 ___
 - <font size="4"><i>Valko, D., Paranjpe, R., & Marx Gómez, J.</i> (2025). Outperforming Dijkstra on sparse graphs: The lightning network use case. <i>arXiv</i>, <a href="https://doi.org/10.48550/arXiv.2509.13448">https://doi.org/10.48550/arXiv.2509.13448</a></font>
-<!-- - <font size="4"><i>Valko, D., & Marx Gómez, J.</i> (2025). Recent advances in global payment channel networks: A systematic literature review. <i>Research Square</i>, <a href="https://doi.org/10.21203/rs.3.rs-7705514/v1">https://doi.org/10.21203/rs.3.rs-7705514/v1</a></font> -->
 - <font size="4"><i>Valko, D.</i> (2025). When FAIR isn’t enough: Towards sustainable research data and software. <i>SSRN</i>, <a href="https://doi.org/10.2139/ssrn.5546379">https://doi.org/10.2139/ssrn.5546379</a></font>
+- <font size="4"><i>Valko, D., & Marx Gómez, J.</i> (2025). Recent advances in global payment channel networks: A systematic literature review. <i>Research Square</i>, <a href="https://doi.org/10.21203/rs.3.rs-7705514/v1">https://doi.org/10.21203/rs.3.rs-7705514/v1</a></font>
 
 
 ### Patents
